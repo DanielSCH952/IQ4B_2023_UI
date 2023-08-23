@@ -1,3 +1,9 @@
-body{
-    background-color: browns;
+body {
+  background-color: browns;
+}
+p {
+  border: 1px solid white;
+}
+div {
+  color: green;
 }
