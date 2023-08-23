@@ -1,0 +1,14 @@
+$color_fuente:salmon;
+
+div{
+    color:$color_fuente;
+}
+p{
+    background-color: $color_fuente;
+}
+span{
+    border-color: $color_fuente;
+}
+input{
+    border: 1px solid $color_fuente;
+}
